@@ -1,3 +1,8 @@
+
+![alt text][id]
+
+[id]: https://www.kikapptools.com/wp-content/uploads/2017/08/logo_kikapp_bajo.png
+
 ## About KikApp
 KikApp is a framework that allows the creation of mobile applications on platforms including Android and iOS from a single PHP codebase.
 
